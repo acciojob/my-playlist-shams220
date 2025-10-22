@@ -2,6 +2,12 @@
 h2{
 text-align:center;
 }
+ul{
+length:5;
+}
+h1,div,ul,li,a,h2{
+
+length:1}
 .main-div{
 	display:flex;
 	flex-direction:column;
